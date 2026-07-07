@@ -1,4 +1,4 @@
-better yolo model means better accuracy but low performance 
+better yolo model means better accuracy but low fps /jitter
 name of model : corresponding python name
 Nano: "yolo11n-pose"
 Small: "yolo11s-pose"
