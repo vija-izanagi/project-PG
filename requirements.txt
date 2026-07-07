@@ -1,0 +1,6 @@
+numpy==2.5.1
+onnxruntime_gpu==1.27.0
+opencv_contrib_python==4.13.0.92
+opencv_python==5.0.0.93
+pygame==2.6.1
+ultralytics==8.4.88
